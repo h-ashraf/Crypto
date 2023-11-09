@@ -1,8 +1,8 @@
 //
 //  HapticManager.swift
-//  SwiftfulCrypto
+//  Crypto Tracker
 //
-//  Created by Nick Sarno on 5/10/21.
+//  Created by Hamad Ashraf on 9/9/23.
 //
 
 import Foundation
