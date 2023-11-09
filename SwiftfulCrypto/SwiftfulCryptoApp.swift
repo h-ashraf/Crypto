@@ -1,6 +1,6 @@
 //
 //  SwiftfulCryptoApp.swift
-//  SwiftfulCrypto
+//  Crypto Tracker
 //
 //  Created by Hamad Ashraf on 9/9/23.
 //
