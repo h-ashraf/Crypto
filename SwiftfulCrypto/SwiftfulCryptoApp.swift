@@ -2,7 +2,7 @@
 //  SwiftfulCryptoApp.swift
 //  SwiftfulCrypto
 //
-//  Created by Nick Sarno on 5/8/21.
+//  Created by Hamad Ashraf on 9/09/2023.
 //
 
 import SwiftUI
